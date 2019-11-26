@@ -1,0 +1,54 @@
+{
+	"0": {
+		"num_accidents": 2,
+		"involved": [
+                    {
+                        "id": 134,
+                        "coords": [34.77384824, 32.08106063],
+                        "ages": ["0-10"],
+                        "severity": 1,
+                        "vehicle_type": 4
+                    },
+                    {
+                        "id": 134,
+                        "coords": [34.77384824, 32.08106063],
+                        "ages": ["10-20"],
+                        "severity": 3,
+                        "vehicle_type": 1
+                    },
+                    {
+                        "id": 123,
+                        "coords": [34.77385799, 32.08124103],
+                        "ages": ["30-35"],
+                        "severity": 1,
+                        "vehicle_type": 3
+                    }
+        ],
+	"1": {
+	  "num_accidents": 3,
+		"involved": [
+                    {
+                        "id": 256,
+                        "coords": [34.76851139, 32.08075381],
+                        "ages": ["0-10"],
+                        "severity": 1,
+                        "vehicle_type": 4
+                    },
+                    {
+                        "id": 432,
+                        "coords": [34.77384824, 32.08106063],
+                        "ages": ["10-20"],
+                        "severity": 3,
+                        "vehicle_type": 1
+                    },
+                    {
+                        "id": 654,
+                        "coords": [34.76830312, 32.08000461],
+                        "ages": ["60-70"],
+                        "severity": 2,
+                        "vehicle_type": 2
+                    }
+			        ]
+       }
+  }
+}
