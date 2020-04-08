@@ -16,7 +16,7 @@ Please see [ANYWAY's main repository](https://github.com/hasadna/anyway) to read
 
 ## Communication:
 
-via Slack. Ask any member for an invite by email.  
+Via Slack. Ask any member for an invite by email.  
 Please join channels #anyway, #anyway_data_science, #anyway_news_report and #general.
 
 
