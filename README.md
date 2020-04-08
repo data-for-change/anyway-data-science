@@ -37,9 +37,9 @@ We mainly add jupyter notebooks to it, for two purposes:
   - To later be integrated into production by DS and\or BE team  
 
 At the moment it mainly contains these three folders:  
-  - /analysis_notebooks : Mostly used for PoC’s and other things worth considering  
-  - /learning_notebooks : Mostly used for Data Explorations  
-  - /tasks : specific tasks related notebooks  
+  - `/analysis_notebooks` : Mostly used for PoC’s and other things worth considering  
+  - `/learning_notebooks` : Mostly used for Data Explorations  
+  - `/tasks` : specific tasks related notebooks  
 
 
 ## Getting Started:
