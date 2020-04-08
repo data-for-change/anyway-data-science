@@ -1,5 +1,18 @@
-# anyway-data-science
+# ANYWAY Data Science
 
+Welcome to ANYWAY's Data Science Team!
+
+## About ANYWAY
+
+ANYWAY is a volunteer based project acting under the umbrella of the Public Knowledge Workshop (“HASADNA”) that aims to reduce road accidents by:
+1. Raising public awareness of existing road hazards, thereby leading towards safer road behaviour.
+2. Collaborating with authorities in order to assist and drive them to find solutions in light of Vision Zero. Such solutions will improve road infrastructure and behavioural problems in attempt to prevent road fatalities.
+
+## Our Challenge
+
+Our current challenge is forming an automatic generator of infographics to empower and serve journalists, bloggers, public opinion leaders, community leaders etc. in the era of data journalism. The generated infographics will enhance reporting and news writing with the use of statistics. Each infographic will be created for a real-time road accident related news flash and will provide a deeper insight into the story based on historical data. This, we believe, will increase both the quantity and quality of articles dealing with road accidents, and will result in raising public awareness and creating pressure on decision makers to initiate infrastructure improvements in light of Vision Zero.
+
+Please see [ANYWAY's main repository](https://github.com/hasadna/anyway) to read more about our vision, collaborations and previous projects :-)
 
 ## Communication:
 
@@ -7,7 +20,7 @@ via Slack. Ask any member for an invite by email.
 Please join channels #anyway, #anyway_data_science, #anyway_news_report and #general.
 
 
-## Teams and code:
+## Teams and Code:
 
 There are several teams in the Anyway project:  
 Front End, Back End, Data Engineering, Data Science, etc.
@@ -29,7 +42,7 @@ At the moment it mainly contains these three folders:
   - /tasks : specific tasks related notebooks  
 
 
-## Getting started:
+## Getting Started:
 
 First-timers are advised to browse through (or play with) some notebooks in the repo.  
 They contain pieces of code and data you may find useful.  
@@ -44,7 +57,7 @@ To that end we’ve gathered here a few tips:
     Without root is ok too: (x_db - x_news)**2 + (y_db - y_news)**2  
 
 
-## Data resources:
+## Data Resources:
 
 ### Offline Data
 First, send a permission request to view the [data directory](https://drive.google.com/drive/folders/1k5bLQDN0VcyUdPqZ7oTxUE-eMOfD_E5E)  
