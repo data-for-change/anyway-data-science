@@ -41,6 +41,7 @@ At the moment it mainly contains these three folders:
   - `/learning_notebooks` : Mostly used for Data Explorations  
   - `/tasks` : specific tasks related notebooks  
 
+ANYWAY's [google drive](https://drive.google.com/drive/folders/16Jz0LfXLjZETgzFCsPrHNWbwk7toOiED) also consists of useful information that is difficult to show on git. You will need to request access to view the drive.
 
 ## Getting Started:
 
@@ -60,8 +61,9 @@ To that end we’ve gathered here a few tips:
 ## Data Resources:
 
 ### Offline Data
-First, send a permission request to view the [data directory](https://drive.google.com/drive/folders/1k5bLQDN0VcyUdPqZ7oTxUE-eMOfD_E5E)  
-Then, make sure you check out the Data Index file  
+If you haven't already, first send a permission request to view the [google drive](https://drive.google.com/drive/folders/16Jz0LfXLjZETgzFCsPrHNWbwk7toOiED)
+
+Then, make sure you go over the `Data\Data Index` doc file.  
 
 
 ### Online Data
