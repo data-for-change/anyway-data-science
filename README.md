@@ -63,7 +63,7 @@ To that end we’ve gathered here a few tips:
 ### Offline Data
 If you haven't already, first send a permission request to view the [google drive](https://drive.google.com/drive/folders/16Jz0LfXLjZETgzFCsPrHNWbwk7toOiED)
 
-Then, make sure you go over the `Data\Data Index` doc file.  
+Then, make sure you go over the `./Data/Data Index` doc file.  
 
 
 ### Online Data
