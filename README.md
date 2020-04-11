@@ -129,4 +129,4 @@ Merge the changes from upstream’s master to your local master:
 `git merge upstream/master`  
 
 Push the changes from your local master to your fork’s master in Github:  
-`Git push`
+`git push`
