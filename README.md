@@ -2,23 +2,26 @@
 
 Welcome to ANYWAY's Data Science Team!
 
+## Our Challenge
+
+Our current challenge is forming an automatic generator of infographics to empower and serve journalists, bloggers, public opinion leaders, community leaders etc. in the era of data journalism. The generated infographics will enhance reporting and news writing with the use of statistics. Each infographic will be created for a real-time road accident related news flash and will provide a deeper insight into the story based on historical data. This, we believe, will increase both the quantity and quality of articles dealing with road accidents, and will result in raising public awareness and creating pressure on decision makers to initiate infrastructure improvements in light of Vision Zero.  
+
+As volunteers in the Data Science team, we are responsible for coming up with the most relevant infographics in response to different road accident related news flashes. As a start, we will propose infographics based on statistical analysis and on a deep understanding of existing media coverage of the topic of road accidents. Later on we intend to extend our reseach tools and analyze the data from more perspectives. For example, we would like to use our [road accidents clustering PoC](https://github.com/hasadna/anyway-data-science/blob/master/learning_notebooks/Clusters_Tel_Aviv.ipynb) to enrich our data analysis. 
+
+We encourage you to come up with your own research ideas, as well as discuss any comments, suggestions, corrctions, etc. :-)
+  
 ## About ANYWAY
 
 ANYWAY is a volunteer based project acting under the umbrella of the Public Knowledge Workshop (“HASADNA”) that aims to reduce road accidents by:
 1. Raising public awareness of existing road hazards, thereby leading towards safer road behaviour.
 2. Collaborating with authorities in order to assist and drive them to find solutions in light of Vision Zero. Such solutions will improve road infrastructure and behavioural problems in attempt to prevent road fatalities.
 
-## Our Challenge
-
-Our current challenge is forming an automatic generator of infographics to empower and serve journalists, bloggers, public opinion leaders, community leaders etc. in the era of data journalism. The generated infographics will enhance reporting and news writing with the use of statistics. Each infographic will be created for a real-time road accident related news flash and will provide a deeper insight into the story based on historical data. This, we believe, will increase both the quantity and quality of articles dealing with road accidents, and will result in raising public awareness and creating pressure on decision makers to initiate infrastructure improvements in light of Vision Zero.
-
-Please see [ANYWAY's main repository](https://github.com/hasadna/anyway) to read more about our vision, collaborations and previous projects :-)
+Please see [ANYWAY's main repository](https://github.com/hasadna/anyway) to read more about our vision, collaborations and previous projects :-)  
 
 ## Communication:
 
 Via Slack. Ask any member for an invite by email.  
 Please join channels #anyway, #anyway_data_science, #anyway_news_report and #general.
-
 
 ## Teams and Code:
 
