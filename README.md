@@ -8,17 +8,17 @@ Our current challenge is forming an automatic generator of infographics to empow
 
 As volunteers in the Data Science team, we are responsible for coming up with the most relevant infographics in response to different road accident related news flashes. As a start, we will propose infographics based on statistical analysis and on a deep understanding of existing media coverage of the topic of road accidents. 
 
-Later on we intend to extend our reseach tools, analyze the data from more perspectives, and obtain more data resources. For example, we would like to use our [road accidents clustering PoC](https://github.com/hasadna/anyway-data-science/blob/master/learning_notebooks/Clusters_Tel_Aviv.ipynb) to enrich our data analysis; obtain a great new data source for Computer Vision analysis by applying our privacy license plates blurring algorithm on videos from [Shomreiy Haderech](https://www.rsa.org.il/) (שומרי הדרך); and use Natural Language Processing for creating automatic descriptions for infographics. 
+Later on we intend to extend our reseach tools, analyze the data from more perspectives, and obtain more data resources. For example, we would like to use our [road accidents clustering PoC](https://github.com/data-for-change/anyway-data-science/blob/master/learning_notebooks/Clusters_Tel_Aviv.ipynb) to enrich our data analysis; obtain a great new data source for Computer Vision analysis by applying our privacy license plates blurring algorithm on videos from [Shomreiy Haderech](https://www.rsa.org.il/) (שומרי הדרך); and use Natural Language Processing for creating automatic descriptions for infographics. 
 
 We encourage you to come up with your own research ideas, as well as discuss any comments, suggestions, corrctions, etc. :-)
   
 ## About ANYWAY
 
-ANYWAY is a volunteer based project acting under the umbrella of the Public Knowledge Workshop (“HASADNA”) that aims to reduce road accidents by:
+ANYWAY is a volunteer based project acting under the umbrella of Data For Change that aims to reduce road accidents by:
 1. Raising public awareness of existing road hazards, thereby leading towards safer road behaviour.
 2. Collaborating with authorities in order to assist and drive them to find solutions in light of Vision Zero. Such solutions will improve road infrastructure and behavioural problems in attempt to prevent road fatalities.
 
-Please see [ANYWAY's main repository](https://github.com/hasadna/anyway) to read more about our vision, collaborations and previous projects :-)  
+Please see [ANYWAY's main repository](https://github.com/data-for-change/anyway) to read more about our vision, collaborations and previous projects :-)  
 
 ## Communication:
 
@@ -31,10 +31,10 @@ There are several teams in the Anyway project:
 Front End, Back End, Data Engineering, Data Science, etc.
 
 Similarly there are several “anyway” Github repositories too:  
-https://github.com/hasadna?q=anyway
+https://github.com/data-for-change?q=anyway
 
 The repo that we, the Data Scientists, work with is:  
-https://github.com/hasadna/anyway-data-science
+https://github.com/data-for-change/anyway-data-science
 
 We mainly add jupyter notebooks to it, for two purposes:  
   - Share useful Data Explorations  
@@ -72,14 +72,14 @@ Then, make sure you go over the `./Data/Data Index` doc file.
 
 
 ### Online Data
-[Redash](https://app.redash.io/hasadna/queries?q=anyway) (an online platform to query our tables using SQL)  
+[Redash](https://redash.dataforchange.org.il/) (an online platform to query our tables using SQL)  
 [Get some inspiration from the world](https://docs.google.com/document/d/1GvfiFXkN7-80TBsvpEFEUB6z03VaBhHHa6ye_DBrQFA/edit?usp=sharing) - Accident data from different places in the world and data analysis  
 
 
 ## Tasks:
 
 Tasks are added as Github Issues in our repo:  
-https://github.com/hasadna/anyway-data-science/issues
+https://github.com/data-for-change/anyway-data-science/issues
 
 Feel free to assign yourself a task to let the others know someone’s working on it.  
 
@@ -124,7 +124,7 @@ On your fork (copy) on Github, go to “branches” and select “New pull reque
 ### How to merge changes from the original repository to your fork?
 
 Set the remote repository as your “upstream” repo:  
-`git remote add upstream https://github.com/hasadna/anyway-data-science.git`  
+`git remote add upstream https://github.com/data-for-change/anyway-data-science.git`  
   
 Fetch the upstream:  
 `git fetch upstream`  
